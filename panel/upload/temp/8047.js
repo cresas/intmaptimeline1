@@ -14,16 +14,11 @@
       "media": {
        
       
-        "url": "https://i.hizliresim.com/ddo79wc.png"
+             "url": "img/0.jpg"
 
         
       },
-      "overlay": {
-        "url": "https://i.hizliresim.com/l1rqaed.jpg",
-        "position": "top-right",
-        "opacity": 0.6
-      }
-    },
+      
     {
       "start_date": {"year": "1914", "month": "7", "day": "28"},
       "text": {
