@@ -1,0 +1,73 @@
+{
+  "scale": "human",
+  "events": [
+    {
+      "start_date": {"year": "1943", "month": "6", "day": "5"},
+      "text": {
+        "headline": "ÖRNEK KRONOLOJİK HARİTA SEMAAA",
+        "text": "HARİTA 1 AÇIKLAMA SEMAAA"
+      },
+      "media": {
+        "url": "<iframe src=\"https://story.agenabusinessgroup.com/interaktifharita/loader8.html\" width=\"100%\" height=\"600px\" frameborder=\"0\"></iframe>"
+      }
+    },
+    {
+      "start_date": {"year": "1951"},
+      "text": {
+        "headline": "HARİTA 1",
+        "text": "<p>HARİTA 1 MAKALE . </p><span class='tl-note'>ÖRNEK MAKALE ...........</span>"
+      },
+      "media": {
+        "url": "<iframe src=\"https://story.agenabusinessgroup.com/interaktifharita/loader8.html\" width=\"100%\" height=\"600px\" frameborder=\"0\"></iframe>",
+        "credit": "Copyright"
+      }
+    },
+    {
+      "start_date": {"year": "1952"},
+      "text": {
+        "headline": "ÖRNEK KRONOLOJİK SES",
+        "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir..."
+      },
+      "media": {
+        "url": "https://soundcloud.com/innovationhub/grace-hopper-the-life-of-a-coding-pioneer",
+        "caption": "<a href=\"#\">Örnek Bağlantı</a>"
+      }
+    },
+    {
+      "start_date": {"year": "1956"},
+      "end_date": {"year": "1962"},
+      "text": {
+        "headline": "ÖRNEK VİDEO",
+        "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir..."
+      },
+      "media": {
+        "url": "https://vimeo.com/304869290",
+        "credit": "ÖRNEK CREDİT",
+        "caption": "ÖRNEK CAPTİON"
+      }
+    },
+    {
+      "start_date": {"year": "1958"},
+      "text": {
+        "headline": "ÖRNEK RESİM",
+        "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir..."
+      },
+      "media": {
+        "url": "https://web.archive.org/web/20210702214213if_/https://www.women.cs.cmu.edu/ada/Resources/Women/pictures/mary_keller.png",
+        "caption": "ÖRNEK BAŞLIK"
+      }
+    },
+    {
+      "start_date": {"year": "1972"},
+      "text": {
+        "headline": "ÖRNEK YOUTUBE VİDEO",
+        "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir..."
+      },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=4-DyVzj-f3c",
+        "caption": "ÖRNEK BAŞLIK",
+        "thumbnail": "ÖRNEK YAZI '-----------------------'"
+      }
+    }
+  ]
+}
