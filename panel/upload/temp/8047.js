@@ -14,10 +14,11 @@
       "media": {
        
       
-             "url": "img/0.jpg"
+           "url": "img/0.jpg"
 
         
-      },
+      }
+    },
       
     {
       "start_date": {"year": "1914", "month": "7", "day": "28"},
